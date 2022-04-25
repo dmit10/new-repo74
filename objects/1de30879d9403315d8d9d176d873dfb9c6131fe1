@@ -1,0 +1,4 @@
+[map "c0ac070b-0547-3da8-81bb-cab42277f0e7"]
+	object = 48d24a95b29068fe9f5875ef3712752ec79af0bc
+	path = GxIntegrationTest.repo
+	type = expand module
